@@ -1,5 +1,7 @@
 # GameStore :video_game:
 
+Preciso de alterar o readme !!
+
 ## Projeto de PSI
 
 * Loja de jogos digitais
